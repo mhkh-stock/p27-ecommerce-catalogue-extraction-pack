@@ -1,0 +1,4 @@
+category,products,min_price_usd,max_price_usd,mean_price_usd,median_price_usd,total_value_usd
+Laptops,117,295.99,1799.0,909.39,1102.66,106399.08
+Tablets,21,69.99,603.99,232.04,130.99,4872.79
+Touch,9,24.99,899.99,400.66,118.99,3605.91

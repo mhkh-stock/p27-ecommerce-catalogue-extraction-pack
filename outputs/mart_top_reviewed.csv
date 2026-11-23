@@ -1,0 +1,16 @@
+product_id,title,category,brand,price_usd,rating_stars,review_count
+12,Asus MeMO Pad,Tablets,Asus,102.99,4,14
+75,Acer Aspire ES1-732 Black,Laptops,Acer,410.46,4,14
+46,Dell Vostro 15,Laptops,Dell,488.78,4,14
+94,Lenovo ThinkPad L460,Laptops,Lenovo,1096.02,4,14
+106,Dell Latitude 5480,Laptops,Dell,1133.82,4,14
+16,Galaxy Tab,Tablets,Samsung,251.99,3,14
+60,Asus VivoBook X441NA-GA190,Laptops,Asus,295.99,3,14
+109,Acer Nitro 5 AN515-51,Laptops,Acer,1140.62,3,14
+120,Acer Predator Helios 300 (PH317-51),Laptops,Acer,1187.98,3,14
+22,Galaxy Tab 3,Tablets,Samsung,107.99,2,14
+129,Asus ZenBook UX530UX-FY040T Blue,Laptops,Asus,1239.2,1,14
+124,Toshiba Portege X30-D-10J Black/Blue,Laptops,Toshiba,1203.41,4,13
+28,IdeaTab A8-50,Tablets,Lenovo,121.99,2,13
+42,HP 250 G3,Laptops,HP,520.99,2,13
+37,ThinkPad Yoga,Laptops,Lenovo,1033.99,2,13

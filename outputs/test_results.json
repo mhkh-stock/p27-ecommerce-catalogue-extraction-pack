@@ -1,0 +1,90 @@
+{
+  "total": 14,
+  "passed": 14,
+  "tests": [
+    {
+      "test": "t01_bronze_row_count.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t02_bronze_duplicate_product_id.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t03_bronze_price_parses.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t04_bronze_rating_range.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t05_bronze_review_count_valid.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t06_bronze_product_url.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t07_silver_no_nulls.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t08_silver_price_band_assigned.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t09_silver_brand_normalised.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t10_fact_grain.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t11_fact_totals_reconcile.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t12_mart_price_by_category_reconciles.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t13_mart_rating_by_category_reconciles.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t14_outliers_complete_and_valid.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    }
+  ]
+}

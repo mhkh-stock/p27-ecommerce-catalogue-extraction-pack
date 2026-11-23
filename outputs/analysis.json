@@ -1,0 +1,539 @@
+{
+  "products": 147,
+  "categories": 3,
+  "brands": 16,
+  "total_value_usd": 114877.78,
+  "price_min": 24.99,
+  "price_max": 1799.0,
+  "price_mean": 781.48,
+  "price_median": 739.99,
+  "avg_rating": 2.37,
+  "weighted_rating": 2.47,
+  "rated_4_plus": 27,
+  "rated_1": 43,
+  "rated_5": 0,
+  "zero_reviews": 8,
+  "total_reviews": 1033,
+  "outliers": 0,
+  "price_by_category": [
+    {
+      "category": "Laptops",
+      "products": 117,
+      "min": 295.99,
+      "max": 1799.0,
+      "mean": 909.39,
+      "median": 1102.66,
+      "total": 106399.08
+    },
+    {
+      "category": "Tablets",
+      "products": 21,
+      "min": 69.99,
+      "max": 603.99,
+      "mean": 232.04,
+      "median": 130.99,
+      "total": 4872.79
+    },
+    {
+      "category": "Touch",
+      "products": 9,
+      "min": 24.99,
+      "max": 899.99,
+      "mean": 400.66,
+      "median": 118.99,
+      "total": 3605.91
+    }
+  ],
+  "price_by_brand": [
+    {
+      "brand": "Lenovo",
+      "products": 30,
+      "min": 69.99,
+      "max": 1399.0,
+      "mean": 788.1,
+      "median": 1016.5,
+      "avg_rating": 2.53,
+      "total_reviews": 240
+    },
+    {
+      "brand": "Acer",
+      "products": 29,
+      "min": 96.99,
+      "max": 1221.58,
+      "mean": 586.45,
+      "median": 457.38,
+      "avg_rating": 2.45,
+      "total_reviews": 161
+    },
+    {
+      "brand": "Asus",
+      "products": 23,
+      "min": 101.99,
+      "max": 1799.0,
+      "mean": 851.46,
+      "median": 799.0,
+      "avg_rating": 2.3,
+      "total_reviews": 164
+    },
+    {
+      "brand": "Dell",
+      "products": 21,
+      "min": 488.78,
+      "max": 1341.22,
+      "mean": 1090.33,
+      "median": 1144.2,
+      "avg_rating": 2.43,
+      "total_reviews": 158
+    },
+    {
+      "brand": "Apple",
+      "products": 8,
+      "min": 537.99,
+      "max": 1347.78,
+      "mean": 972.86,
+      "median": 899.99,
+      "avg_rating": 2.0,
+      "total_reviews": 53
+    },
+    {
+      "brand": "Samsung",
+      "products": 8,
+      "min": 93.99,
+      "max": 587.99,
+      "mean": 282.99,
+      "median": 242.99,
+      "avg_rating": 2.88,
+      "total_reviews": 61
+    },
+    {
+      "brand": "HP",
+      "products": 7,
+      "min": 364.46,
+      "max": 1326.83,
+      "mean": 773.34,
+      "median": 609.99,
+      "avg_rating": 2.0,
+      "total_reviews": 57
+    },
+    {
+      "brand": "MSI",
+      "products": 7,
+      "min": 1099.0,
+      "max": 1299.0,
+      "mean": 1174.71,
+      "median": 1179.0,
+      "avg_rating": 1.86,
+      "total_reviews": 43
+    },
+    {
+      "brand": "Toshiba",
+      "products": 5,
+      "min": 1114.55,
+      "max": 1366.32,
+      "mean": 1226.61,
+      "median": 1203.41,
+      "avg_rating": 1.6,
+      "total_reviews": 37
+    },
+    {
+      "brand": "Nokia",
+      "products": 2,
+      "min": 24.99,
+      "max": 109.99,
+      "mean": 67.49,
+      "median": 67.49,
+      "avg_rating": 3.5,
+      "total_reviews": 15
+    },
+    {
+      "brand": "Prestigio",
+      "products": 2,
+      "min": 299.0,
+      "max": 299.0,
+      "mean": 299.0,
+      "median": 299.0,
+      "avg_rating": 3.0,
+      "total_reviews": 20
+    },
+    {
+      "brand": "Amazon",
+      "products": 1,
+      "min": 103.99,
+      "max": 103.99,
+      "mean": 103.99,
+      "median": 103.99,
+      "avg_rating": 4.0,
+      "total_reviews": 3
+    },
+    {
+      "brand": "LG",
+      "products": 1,
+      "min": 57.99,
+      "max": 57.99,
+      "mean": 57.99,
+      "median": 57.99,
+      "avg_rating": 3.0,
+      "total_reviews": 11
+    },
+    {
+      "brand": "Packard Bell",
+      "products": 1,
+      "min": 416.99,
+      "max": 416.99,
+      "mean": 416.99,
+      "median": 416.99,
+      "avg_rating": 2.0,
+      "total_reviews": 2
+    },
+    {
+      "brand": "Sony",
+      "products": 1,
+      "min": 118.99,
+      "max": 118.99,
+      "mean": 118.99,
+      "median": 118.99,
+      "avg_rating": 1.0,
+      "total_reviews": 6
+    },
+    {
+      "brand": "Ubuntu",
+      "products": 1,
+      "min": 499.99,
+      "max": 499.99,
+      "mean": 499.99,
+      "median": 499.99,
+      "avg_rating": 1.0,
+      "total_reviews": 2
+    }
+  ],
+  "rating_by_category": [
+    {
+      "category": "Laptops",
+      "products": 117,
+      "avg_rating": 2.34,
+      "rated_4_plus": 21,
+      "rated_1": 37,
+      "zero_reviews": 8,
+      "total_reviews": 807,
+      "weighted_rating": 2.46
+    },
+    {
+      "category": "Tablets",
+      "products": 21,
+      "avg_rating": 2.67,
+      "rated_4_plus": 5,
+      "rated_1": 2,
+      "zero_reviews": 0,
+      "total_reviews": 170,
+      "weighted_rating": 2.6
+    },
+    {
+      "category": "Touch",
+      "products": 9,
+      "avg_rating": 2.11,
+      "rated_4_plus": 1,
+      "rated_1": 4,
+      "zero_reviews": 0,
+      "total_reviews": 56,
+      "weighted_rating": 2.25
+    }
+  ],
+  "price_bands": [
+    {
+      "band": "Under $300",
+      "products": 23,
+      "share_pct": 15.65,
+      "avg_price": 140.51
+    },
+    {
+      "band": "$300 - $599",
+      "products": 45,
+      "share_pct": 30.61,
+      "avg_price": 445.6
+    },
+    {
+      "band": "$600 - $999",
+      "products": 14,
+      "share_pct": 9.52,
+      "avg_price": 785.21
+    },
+    {
+      "band": "$1000 - $1499",
+      "products": 62,
+      "share_pct": 42.18,
+      "avg_price": 1213.94
+    },
+    {
+      "band": "$1500+",
+      "products": 3,
+      "share_pct": 2.04,
+      "avg_price": 1779.0
+    }
+  ],
+  "rating_dist": [
+    {
+      "stars": 1,
+      "products": 43
+    },
+    {
+      "stars": 2,
+      "products": 33
+    },
+    {
+      "stars": 3,
+      "products": 44
+    },
+    {
+      "stars": 4,
+      "products": 27
+    }
+  ],
+  "top_reviewed": [
+    {
+      "product_id": "12",
+      "title": "Asus MeMO Pad",
+      "category": "Tablets",
+      "brand": "Asus",
+      "price": 102.99,
+      "rating": 4,
+      "reviews": 14
+    },
+    {
+      "product_id": "75",
+      "title": "Acer Aspire ES1-732 Black",
+      "category": "Laptops",
+      "brand": "Acer",
+      "price": 410.46,
+      "rating": 4,
+      "reviews": 14
+    },
+    {
+      "product_id": "46",
+      "title": "Dell Vostro 15",
+      "category": "Laptops",
+      "brand": "Dell",
+      "price": 488.78,
+      "rating": 4,
+      "reviews": 14
+    },
+    {
+      "product_id": "94",
+      "title": "Lenovo ThinkPad L460",
+      "category": "Laptops",
+      "brand": "Lenovo",
+      "price": 1096.02,
+      "rating": 4,
+      "reviews": 14
+    },
+    {
+      "product_id": "106",
+      "title": "Dell Latitude 5480",
+      "category": "Laptops",
+      "brand": "Dell",
+      "price": 1133.82,
+      "rating": 4,
+      "reviews": 14
+    },
+    {
+      "product_id": "16",
+      "title": "Galaxy Tab",
+      "category": "Tablets",
+      "brand": "Samsung",
+      "price": 251.99,
+      "rating": 3,
+      "reviews": 14
+    },
+    {
+      "product_id": "60",
+      "title": "Asus VivoBook X441NA-GA190",
+      "category": "Laptops",
+      "brand": "Asus",
+      "price": 295.99,
+      "rating": 3,
+      "reviews": 14
+    },
+    {
+      "product_id": "109",
+      "title": "Acer Nitro 5 AN515-51",
+      "category": "Laptops",
+      "brand": "Acer",
+      "price": 1140.62,
+      "rating": 3,
+      "reviews": 14
+    },
+    {
+      "product_id": "120",
+      "title": "Acer Predator Helios 300 (PH317-51)",
+      "category": "Laptops",
+      "brand": "Acer",
+      "price": 1187.98,
+      "rating": 3,
+      "reviews": 14
+    },
+    {
+      "product_id": "22",
+      "title": "Galaxy Tab 3",
+      "category": "Tablets",
+      "brand": "Samsung",
+      "price": 107.99,
+      "rating": 2,
+      "reviews": 14
+    },
+    {
+      "product_id": "129",
+      "title": "Asus ZenBook UX530UX-FY040T Blue",
+      "category": "Laptops",
+      "brand": "Asus",
+      "price": 1239.2,
+      "rating": 1,
+      "reviews": 14
+    },
+    {
+      "product_id": "124",
+      "title": "Toshiba Portege X30-D-10J Black/Blue",
+      "category": "Laptops",
+      "brand": "Toshiba",
+      "price": 1203.41,
+      "rating": 4,
+      "reviews": 13
+    },
+    {
+      "product_id": "28",
+      "title": "IdeaTab A8-50",
+      "category": "Tablets",
+      "brand": "Lenovo",
+      "price": 121.99,
+      "rating": 2,
+      "reviews": 13
+    },
+    {
+      "product_id": "42",
+      "title": "HP 250 G3",
+      "category": "Laptops",
+      "brand": "HP",
+      "price": 520.99,
+      "rating": 2,
+      "reviews": 13
+    },
+    {
+      "product_id": "37",
+      "title": "ThinkPad Yoga",
+      "category": "Laptops",
+      "brand": "Lenovo",
+      "price": 1033.99,
+      "rating": 2,
+      "reviews": 13
+    }
+  ],
+  "most_expensive": [
+    {
+      "title": "Asus ROG Strix SCAR Edition GL503VM-ED115T",
+      "category": "Laptops",
+      "brand": "Asus",
+      "price": 1799.0,
+      "rating": 3,
+      "reviews": 8
+    },
+    {
+      "title": "Asus ROG Strix GL702ZC-GC154T",
+      "category": "Laptops",
+      "brand": "Asus",
+      "price": 1769.0,
+      "rating": 4,
+      "reviews": 7
+    },
+    {
+      "title": "Asus ROG Strix GL702ZC-GC209T",
+      "category": "Laptops",
+      "brand": "Asus",
+      "price": 1769.0,
+      "rating": 1,
+      "reviews": 8
+    },
+    {
+      "title": "Lenovo Legion Y720",
+      "category": "Laptops",
+      "brand": "Lenovo",
+      "price": 1399.0,
+      "rating": 3,
+      "reviews": 8
+    },
+    {
+      "title": "Asus ROG Strix GL702VM-GC146T",
+      "category": "Laptops",
+      "brand": "Asus",
+      "price": 1399.0,
+      "rating": 3,
+      "reviews": 10
+    }
+  ],
+  "cheapest": [
+    {
+      "title": "Nokia 123",
+      "category": "Touch",
+      "brand": "Nokia",
+      "price": 24.99,
+      "rating": 3,
+      "reviews": 11
+    },
+    {
+      "title": "LG Optimus",
+      "category": "Touch",
+      "brand": "LG",
+      "price": 57.99,
+      "rating": 3,
+      "reviews": 11
+    },
+    {
+      "title": "Lenovo IdeaTab",
+      "category": "Tablets",
+      "brand": "Lenovo",
+      "price": 69.99,
+      "rating": 3,
+      "reviews": 7
+    },
+    {
+      "title": "IdeaTab A3500L",
+      "category": "Tablets",
+      "brand": "Lenovo",
+      "price": 88.99,
+      "rating": 4,
+      "reviews": 7
+    },
+    {
+      "title": "Samsung Galaxy",
+      "category": "Touch",
+      "brand": "Samsung",
+      "price": 93.99,
+      "rating": 3,
+      "reviews": 3
+    }
+  ],
+  "avg_price_by_rating": [
+    {
+      "stars": 1,
+      "avg_price": 901.85,
+      "products": 43
+    },
+    {
+      "stars": 2,
+      "avg_price": 689.97,
+      "products": 33
+    },
+    {
+      "stars": 3,
+      "avg_price": 798.56,
+      "products": 44
+    },
+    {
+      "stars": 4,
+      "avg_price": 673.8,
+      "products": 27
+    }
+  ],
+  "spec_coverage": {
+    "screen": 134,
+    "ram": 135,
+    "storage": 87
+  }
+}
